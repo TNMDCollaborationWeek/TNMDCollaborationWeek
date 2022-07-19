@@ -4,8 +4,6 @@
 + You will need to create your own public GitHub account. This can be `firstnamelastname` as long as you **do not** reference any internal work or work organisation information on your GitHub account. You are also welcome to use code names like `lazywombat` for your Github account.    
 + Your team lead will create a public repository, which will host your team entry for the mini-hackathon. The team challenge **should not** reference any internal work or work organisation information, as this is a public repository.   
 + We recommend first creating your own branch, working in your own local branch and commiting your code changes to your own remote branch, before merging changes to your main branch i.e. create and commit code back to a `lazywombat_dev` branch.  
-![](lazywombat_dev.png)   
-
 + Enjoy yourself, embrace the hackathon chaos and experience the power of technical project management with code version control.   
 
 # Challenges   
@@ -24,4 +22,4 @@ Teams can earn extra points by incoporating the following features in their team
 + Code commits from at least 2 different users (+1 point overall). 
 + Code commits from at least 3 different users (+2 points overall).  
 + Code commits from at least 4 different users (+3 points overall)  
-+ An emoji was used in the git commit message (+1 point overall :sparkle:).  
++ An emoji was included in the commit message (+1 point overall :sparkle:).  
