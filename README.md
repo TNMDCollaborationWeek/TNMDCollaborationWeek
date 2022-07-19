@@ -21,5 +21,5 @@ Teams will be judged according to the following criteria.
 Teams can earn extra points by incoporating the following features in their team challenge. 
 + Code commits from at least 2 different users (+1 point overall). 
 + Code commits from at least 3 different users (+2 points overall).  
-+ Code commits from at least 4 different users (+3 points overall)  
-:sparkles: An emoji was included in the commit message (+1 point overall).   
++ Code commits from at least 4 different users (+3 points overall).     
+:sparkles: An emoji was included in the commit message (+1 point overall).     
