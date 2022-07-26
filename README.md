@@ -11,7 +11,7 @@
 > Enjoy yourself, embrace the hackathon chaos and experience the power of technical project management with code version control.   
 
 # Challenges   
-Challenges will be announced on Thursday 28th July at around 12:30 pm AEST.   
+Challenges will be released before Thursday 28 July via your team leads and can be found [here](https://github.com/TNMDCollaborationWeek/Challenges).   
 
 Teams will be judged according to the following criteria.  
 
